@@ -7,6 +7,8 @@ This project is a **command-line event planner**:
 - Store data persistently in a MySQL database.  
 - Database schema and sample data are provided via `dbconfig.sql`.  
 
+This project was made using **PyCharm**, so you can clone the entire project in it.
+
 ---
 
 ## 📂 Project Structure
@@ -119,4 +121,3 @@ classDiagram
 - CLI menu to create/update/delete events.  
 - More queries (find by name, find by date range).  
 - PyQt5 GUI for a graphical interface.  
-- Full ORM-like structure with `Event` and `Category` classes.  
