@@ -1,6 +1,6 @@
 {
   "host": "localhost",
-  "user": "root",
-  "password": "#defineLED1",
+  "user": "your_username",
+  "password": "your_password",
   "database": "PlannedEvents"
 }
